@@ -1,0 +1,30 @@
+# Node
+node_modules/
+**/node_modules/
+
+# Hardhat/Foundry artifacts & cache
+artifacts/
+cache/
+**/artifacts/
+**/cache/
+
+# Next.js
+.next/
+out/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Env & OS
+.env
+*.env.local
+.DS_Store
+
+# Coverage / dist
+coverage/
+dist/
+
+# Build info (hardhat)
+**/build-info/
